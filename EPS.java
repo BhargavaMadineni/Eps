@@ -1,3 +1,3 @@
 Hello all this is new script for testing the code push to repo..
 
-This is modified.
+updating this file and removed on line. 
